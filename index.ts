@@ -1,4 +1,4 @@
-let message = "Hellow and Welcome";
+let message = "Hellow";
 
 console.log(message);
  let name ="Muhammad Noman";
